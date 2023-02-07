@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=Next.js&logoColor=black"/>
 
-<img src="https://ghchart.rshah.org/setjung1218" />
+<Chart src="https://ghchart.rshah.org/33333/sejung1218" />
 
