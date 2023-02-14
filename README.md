@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="border:1px solid red;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=Next.js&logoColor=black"/>
 
 
@@ -24,3 +26,4 @@ Here are some ideas to get you started:
 
 
 ![sejung1218's github stats](https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=dark)
+</div>
