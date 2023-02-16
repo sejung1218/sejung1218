@@ -1,4 +1,4 @@
-### Hello ! 👋
+
 
 <!--
 **sejung1218/sejung1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <div align='center'>
+  
+  ### Hello ! 👋
+  
+  <br/>
+  <br/>
+  
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> 
@@ -39,11 +45,12 @@ Here are some ideas to get you started:
   -->
 
   
-  ![sejung1218's github stats](https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=react)
+  <!--![sejung1218's github stats](https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=react)-->
+  <img src="https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=dark&count_private=true" />
   
   <br/>
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&layout=compact)](https://github.com/sejung1218/github-readme-stats)
-  
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&layout=compact)](https://github.com/sejung1218/github-readme-stats)-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&theme=dark&layout=compact" />
 </div>
