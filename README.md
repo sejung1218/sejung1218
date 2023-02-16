@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 &nbsp;
 &nbsp;
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&layout=compact)](https://github.com/sejung1218/github-readme-stats)
 &nbsp;
 &nbsp;
 &nbsp;
