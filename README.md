@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello ! 👋
 
 <!--
 **sejung1218/sejung1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
