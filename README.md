@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 &nbsp;
 &nbsp;
 &nbsp;
-
-![sejung1218's github stats](https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=react  )
+<div>
+  ![sejung1218's github stats](https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=react)
 </div>
