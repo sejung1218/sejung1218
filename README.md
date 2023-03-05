@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   ### Hello ! 👋
   
   <br/>
-  [![sejung1218's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sejung1218)](https://github.com/sejung1218/github-readme-stats)
+<!--   [![sejung1218's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sejung1218)](https://github.com/sejung1218/github-readme-stats) -->
   <br/>
   
   <div>
