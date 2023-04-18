@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <br/>
   
   
-  <div>
+  <div style="background-color: #ffffff">
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" color='white' />
