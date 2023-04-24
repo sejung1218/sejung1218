@@ -17,17 +17,17 @@
   <br/>
   <br/>
   
-  
+<!--   
   <div style="background-color: #ffffff">
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" color='white' />
-<!--     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> -->
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65"/>
   </div>
- 
+  -->
 
   
   <!--![sejung1218's github stats](https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=react)-->
