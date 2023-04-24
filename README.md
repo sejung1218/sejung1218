@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Lee%20Sejung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Lee%20Sejung&fontSize=50)
 <div align='center'>
   
   <!-- ### Hello ! 👋 -->
