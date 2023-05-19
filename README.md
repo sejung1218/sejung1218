@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Lee%20Sejung&fontSize=50)
 <div align='center'>
   
-  <!-- ### Hello ! 👋 -->
+  ### 안녕하세요!! 👋
+  #### 프론트엔드 개발자 이세정입니다.
   
   <br/>
 <!--   [![sejung1218's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sejung1218)](https://github.com/sejung1218/github-readme-stats) -->
