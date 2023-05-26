@@ -2,7 +2,7 @@
 <div align='center'>
   
   ### 안녕하세요!! 👋
-  #### 프론트엔드 개발자 이세정입니다.
+  #### 1년차 프론트엔드 개발자 이세정입니다.
   
   <br/>
 <!--   [![sejung1218's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sejung1218)](https://github.com/sejung1218/github-readme-stats) -->
