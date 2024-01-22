@@ -31,15 +31,13 @@
   </div>
   -->
 
+  <div>
+    <!--![sejung1218's github stats](https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=react)-->
+    <img src="https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=dark&count_private=true" />
+    
+    <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&layout=compact)](https://github.com/sejung1218/github-readme-stats)-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&theme=dark&layout=compact" />
+  </div>
   
-  <!--![sejung1218's github stats](https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=react)-->
-  <img src="https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=dark&count_private=true" />
-  
-  <br/>
-  <br/>
-  
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&layout=compact)](https://github.com/sejung1218/github-readme-stats)-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&theme=dark&layout=compact" />
-
   [![sejung1218's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sejung1218&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
