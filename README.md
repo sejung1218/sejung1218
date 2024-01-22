@@ -19,7 +19,6 @@
   <br/>
   <br/>
   
-<!--   
   <div style="background-color: #ffffff">
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -29,13 +28,9 @@
     <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65"/>
   </div>
-  -->
 
   <div>
-    <!--![sejung1218's github stats](https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=react)-->
     <img src="https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=dark&count_private=true" />
-    
-    <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&layout=compact)](https://github.com/sejung1218/github-readme-stats)-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&theme=dark&layout=compact" />
   </div>
   
