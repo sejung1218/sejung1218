@@ -29,10 +29,16 @@
     <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65"/>
   </div>
 
+  <br/>
+  <br/>
+  
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=dark&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&theme=dark&layout=compact" />
   </div>
+
+  <br/>
+  <br/>
   
   [![sejung1218's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sejung1218&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
