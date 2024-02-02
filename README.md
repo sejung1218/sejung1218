@@ -4,6 +4,8 @@
   
   ### 안녕하세요!! 👋
   #### 프론트엔드 개발자 이세정입니다.
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="10%">
   
   <br/>
 <!--   [![sejung1218's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sejung1218)](https://github.com/sejung1218/github-readme-stats) -->
