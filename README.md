@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=GURAWOLF&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=220&section=header&text=GURAWOLF&fontSize=50&textColor=white)
 <!--  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Lee%20Sejung&fontSize=50) -->
 <!--  <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />  -->
 <div align='center'>
