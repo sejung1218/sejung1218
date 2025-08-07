@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Lee%20Sejung&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=GURAWOLF&fontSize=50)
+<!--  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Lee%20Sejung&fontSize=50) -->
 <!--  <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />  -->
 <div align='center'>
   
   ### 안녕하세요!! 👋
   #### 프론트엔드 개발자 이세정입니다.
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsejung1218&count_bg=%23414340&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <br/>
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="10%">
@@ -37,7 +38,7 @@
   <br/>
   
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=dark&count_private=true" height="180"/>
+  <!--    <img src="https://github-readme-stats.vercel.app/api?username=sejung1218&show_icons=true&theme=dark&count_private=true" height="180"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejung1218&theme=dark&layout=compact" height="180"/>
 </div>
 
